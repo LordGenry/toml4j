@@ -12,7 +12,7 @@ Add the following dependency to your POM (or equivalent for other dependency man
 
 ```xml
 <dependency>
-  <groupId>com.exonum.toml</groupId>
+  <groupId>com.moandjiezana.toml</groupId>
   <artifactId>toml4j</artifactId>
   <version>${version}</version>
 </dependency>
